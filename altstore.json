@@ -1,0 +1,30 @@
+{
+  "name": "SprachenLernen – Frenchie",
+  "identifier": "de.jens.sprachenlernen",
+  "website": "https://www.gruhl.de/app/frenchie/",
+  "apps": [
+    {
+      "name": "Frenchie - le chien qui lit",
+      "bundleIdentifier": "de.jens.lesekarten.ios",
+      "developerName": "Jens Conan Gruhl",
+      "localizedDescription": "Französisch mit eigenen Texten lernen: Karteikarten, Lautschrift und Sprachausgabe. Import von XLSX und CSV. Leere Bibliothek ohne mitgelieferte Bücher.",
+      "iconURL": "https://github.com/jgruhl-sw/SprachenLernen/releases/download/frenchie-1.0-3/Frenchie-Icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "3",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/jgruhl-sw/SprachenLernen/releases/download/frenchie-1.0-3/Frenchie-1.0-3.ipa",
+          "size": 2822568,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Erste Bereitstellung für AltStore Classic. Installation über AltStore auf einem echten Gerät noch nicht geprüft."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
